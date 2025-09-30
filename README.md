@@ -26,21 +26,10 @@ Also I am passionate about making new technologies.</h4>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="20"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="20"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="20"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="20"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="20"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="20"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="20"/> </a> </p>
 
-  **1. JavaCore**
-
-  [1.1 StreamApiBase](https://github.com/taron1991/JavaCore/tree/StreamAPI)
-  
-  [1.2 StreamApi](https://github.com/taron1991/JavaCore/tree/StreamApiProject)
+ 
   
   
-  **2. SQL Database**
-  
-  [2.1 SQLJoins](https://github.com/taron1991/SQL_Task_Joins)
-  
-  
-  
-
-
+ 
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taron1991&" alt="taron1991" /></p>
