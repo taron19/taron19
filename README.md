@@ -8,7 +8,7 @@ Also I am passionate about making new technologies.</h4>
 
 - 💬 Ask me about: **Java,SQL**
 
-- 📫 How to reach me: **funkadelica@mail.ru**
+- 📫 How to reach me: **taronmos@mail.ru**
 
 - ⚡ Fun fact: **worcaholic**
 
